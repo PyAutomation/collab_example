@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
 import sys
 
-print(sys.version)
+if __name__ == '__main__':
+    print(sys.version)
